@@ -43,6 +43,28 @@ Rent high-performance ASIC miners and GPU rigs on-demand, or purchase top-tier m
 
 ---
 
+---
+
+## 📸 Screenshots
+
+Here’s a look at the MiningRebel platform in action:
+
+![Dashboard Overview](https://via.placeholder.com/800x450?text=Real-time+Dashboard+with+Hashrate+and+Earnings)  
+*Real-time mining dashboard showing live hashrate, power usage, temperature, and daily earnings*
+
+![Rental Selection](https://via.placeholder.com/800x450?text=Hardware+Rental+Page)  
+*Browse and rent ASIC miners or GPU rigs with instant deployment options*
+
+![Profitability Calculator](https://via.placeholder.com/800x450?text=Profitability+Calculator)  
+*Built-in profitability calculator with dynamic pricing and market data*
+
+![GPU Rig Monitoring](https://via.placeholder.com/800x450?text=GPU+Rig+Monitoring+Screen)  
+*Detailed monitoring screen for GPU mining rigs*
+
+*(Replace the placeholder images above with your actual screenshots. Recommended: Add them to a `screenshots/` folder in the repo and link using relative paths like `screenshots/dashboard.png`)*
+
+---
+
 ## 🛠 How It Works
 
 ### Rental
