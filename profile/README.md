@@ -94,7 +94,7 @@ Here’s a look at the MiningRebel platform in action:
 
 ## 📬 Community & Support
 
-- **Discord**: https://discord.gg/rquh6aedZB
+- **Discord**: [Join Us](https://discord.gg/9nDu3gVvGp)
 - **Support**: support@miningrebel.com
 
 ---
