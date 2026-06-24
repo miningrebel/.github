@@ -10,6 +10,7 @@ Rent high-performance ASIC miners and GPU rigs on-demand, or purchase top-tier m
 ## ✨ Features
 
 - **Hardware Rental** — Instant deployment of ASIC miners & GPU rigs (hourly to monthly)
+- **Hardware NFT Based** — Mint an NFT and get a part of the machine in hashrates!
 - **Mining Store** — Buy new & refurbished ASICs, GPUs, PSUs, and accessories
 - **Hosted Mining** — Low-cost electricity + professional data centers
 - **Real-time Dashboard** — Live hashrate, temperature, and profitability tracking
